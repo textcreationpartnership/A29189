@@ -1,0 +1,486 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A review and conclusion of The antidote agianst [sic] Mr. Baxter's palliated cure of church-divisions wherein Mr. Baxter's late repentance is examined, all his immodest calumnies confuted, and the grounds of separation further cleared / by Edward Bagshaw.</title>
+            <author>Bagshaw, Edward, 1629-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29189</idno>
+            <idno type="STC">Wing B421</idno>
+            <idno type="STC">ESTC R37056</idno>
+            <idno type="EEBO-CITATION">16197947</idno>
+            <idno type="OCLC">ocm 16197947</idno>
+            <idno type="VID">105049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105049)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1085:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A review and conclusion of The antidote agianst [sic] Mr. Baxter's palliated cure of church-divisions wherein Mr. Baxter's late repentance is examined, all his immodest calumnies confuted, and the grounds of separation further cleared / by Edward Bagshaw.</title>
+                  <author>Bagshaw, Edward, 1629-1671.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baxter, Richard, 1615-1691. --  Cure of church-divisions.</term>
+               <term>Dissenters, Religious --  Controversial literature.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105049:1"/>
+            <pb facs="tcp:105049:1" rendition="simple:additions"/>
+            <p>A REVIEW and CONCLUSION OF THE ANTIDOTE Agianſt Mr. <hi>BAXTER'S</hi> Palliated Cure OF CHURCH-DIVISIONS.</p>
+            <p>WHEREIN Mr. <hi>Baxter</hi>'s late Repentance is examined, All his Immodeſt Calumnies confuted, AND The Grounds of Separation further cleared.</p>
+            <p>By <hi>EDWARD BAGSHAW.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Ephraim</hi> is joyned to Idols: let him alone. <bibl>
+                     <hi>Hoſ. 4.17.</hi>
+                  </bibl>
+               </p>
+               <p>If I build again the things which I deſtroyed, I make my ſelf a tranſgreſſor. <bibl>
+                     <hi>Gal. 2.18.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>London Printed in the Year 1671.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105049:2"/>
+            <head>An Advertiſement to the Chriſtian Reader.</head>
+            <p>TO prevent all thoſe Miſtakes, and Miſunderſtandings which Mr. <hi>Baxter,</hi> in his late Anſwer, was guilty of: theſe are to certify that I did deſire ſeveral Brethren (<hi>10,</hi> or <hi>11.</hi> in number) to read diligently the following Treatiſe, and to examine the Quota<g ref="char:EOLhyphen"/>tions, as <hi>I</hi> have cited them out of Mr. <hi>Baxters</hi> printed Books, which they did, and have unanimouſly atteſted under their Hands, that <hi>I</hi> have been very careful, to repeat, not only his very words, but alſo (according to their beſt udnerſtanding) his true Meaning. This, <hi>I</hi> thought good to give thee notice of, Chriſtian Reader, that thou maiſt be confident as <hi>I</hi> dare not, ſo <hi>I</hi> have not wronged Mr. <hi>Baxter,</hi> by any <hi>Wreſted, Falſe,</hi> or <hi>Miſtaken Quotation.</hi>
+            </p>
+            <closer>
+               <signed>Edw. Bagſhaw.</signed> 
+               <dateline>
+                  <date>
+                     <hi>8th M. 16th. 1671.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:105049:2"/>
+            <head>To Mr. Richard Baxter.</head>
+            <opener>
+               <salute>Mr. <hi>Baxter,</hi>
+               </salute>
+            </opener>
+            <p>NOtwithſtanding your angry intimation, that you inten<g ref="char:EOLhyphen"/>ded not to anſwer me, yet it was eaſie to fore-ſee (and accordingly I told you) that you would not keep your word; for I knew your <hi>Pride</hi> would put you upon writing, and your guilt would neceſſitate you to do it, juſt in as unbecoming a manner as you have done; for an <hi>ill cauſe</hi> muſt be maintained by <hi>Calumny.</hi> It ſhall not therefore be any part of my concernment to return your unhandſom Language, but I am content to let you enjoy the priviledge of Railing alone: and if there be any of ſo eaſie a belief, as to take your word, and can imagin I would be ſo <hi>fooliſh</hi> as well as <hi>wicked,</hi> as in a matter of five or ſix ſheets of Paper, to publiſh <hi>fourſcore untruths,</hi> I will not envy you ſuch kind of partial Favourers, nor trouble my ſelf to rectifie their erronious apprehenſions: only I ſhall deſire all that will be at a little pains to conſider things, to judge ſeriouſly betwixt us, and to determine impartially, whether that proud contempt and folly, which almoſt in every line of your laſt book accompanieth your expreſſions, doth not abundantly diſcover that your heart was never yet truly humbled, and conſequently that <hi>Repentance</hi> you take occaſion to mention meerly <hi>Hypocrytical</hi> and <hi>Pretended.</hi>
+            </p>
+            <p>Without entring therefore into other By-matters, which are nothing to the Purpoſe of our main Controverſie, I muſt
+<pb n="2" facs="tcp:105049:3"/> bring you back to the Queſtion as it was firſt deſignedly handled between us; and that is briefly this, <hi>[Whether Conformity at this day upon Conſcientious grounds can be defended by any; or at leaſt, with any kind of honeſty contended for by your ſelf.]</hi> This, Sir, is the thing I have enquired about, and I muſt keep you cloſe to the ſtating of it; for as you <hi>Stand</hi> or <hi>Fall</hi> in the right handling of this, ſo will all your Reaſonings appear, either Solid and Convincing, or elſe degenerate into a railing and needleſs impertinence.</p>
+            <p>Sir, Whoever goeth about to inſtruct the World (but eſpeci<g ref="char:EOLhyphen"/>ally the <hi>Churches</hi> of <hi>Chriſt</hi>) in ſuch a Critical day as this, had need be very careful to give all poſſible ſatisfaction in two things: Firſt, that he writeth ſomething that is worth our know<g ref="char:EOLhyphen"/>ing, and doth not abuſe the patience and leiſure of his Readers: Secondly, That he doth himſelf ſhew ſo much Stability and Ste<g ref="char:EOLhyphen"/>dineſs of judgement, as that he may not diſcredit his own work, by having that replyed upon him, <hi>Thou that teacheſt another, teacheſt thou not thy ſelf?</hi> In both theſe particulars I have already prov'd that you are groſly Defective; For you plead altogether for an <hi>
+                  <g ref="char:V">Ʋ</g>nclean thing;</hi> and that is, for <hi>Conformity</hi> after a <hi>Cove<g ref="char:EOLhyphen"/>nanted for Reformation;</hi> and likewiſe (which is more abſurd) this you doe after you have your ſelf writ ſo much (and to ſpeak truth, ſo well) againſt all ſuch kind of <hi>Communion.</hi>
+            </p>
+            <p>Amongſt other things that I charged upon you this was one, I ſaid, <hi>It became not you to blame the War, and the evil effects of it, with ſo much bitterneſs: ſince you were as Active an Inſtrument in promoting of it, as any one whatſoever.</hi> This, Sir, notwithſtanding your peremptory denyal, I muſt again confirm; For you do in your <hi>Holy Common-wealth</hi> at large juſtifie and defend that War, you ſay, <hi>you did encourage many thouſands to it,</hi> and, <hi>that you thought when you engaged in it, you never did God that outward ſervice as then:</hi> Put all which together, and they ſerve to diſcover an <hi>Acti<g ref="char:EOLhyphen"/>vity</hi> which very few did equal, ſcarce any could exceed: and it will be a very vain excuſe to ſay or think you did but <hi>little,</hi> becauſe perhaps ſome others might do <hi>more;</hi> for the meaſure of every ones <hi>Activity</hi> in a common cauſe, muſt be taken from that place which they fill up, which in your <hi>Capacity</hi> as a <hi>Preacher</hi> (eſpecially if you ſent in Souldiers by <hi>Thouſands</hi>) you did as notably diſcharge as any of the <hi>Generals</hi> or <hi>Parliament Men,</hi> who would have ſignified but little, had they not had ſuch <hi>Chaplains</hi> to work upon <hi>Conſci<g ref="char:EOLhyphen"/>ence:</hi> I therefore wronged you not by aſſerting what you former<g ref="char:EOLhyphen"/>ly did, but you much wrong the Truth and Goodneſs of your own cauſe, (if indeed you think you ever had it) by ſeek<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:105049:3"/> ſo meanly to finde out a Subter-fuge how you might diſ<g ref="char:EOLhyphen"/>guiſe and hide it.</p>
+            <p>I am not ignorant that you now tell me you <hi>Repent,</hi> (and you ought to thank me that I have been<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> means to bring you to it) but as if you had long agoe foreſeen whether your <hi>Temptations</hi> were likely to hurry you, you have very ſeaſonably foreſtalled and Antidoted, whatever ill uſe may be made of your preſent Profeſſion of <hi>Repentance:</hi> Your words, becauſe they are very memorable, I have taken pains verbatim to tranſcribe, as I find them in your <hi>Holy Common-wealth</hi> page 486, 487. <hi>I cannot ſee,</hi> ſay you, <hi>that I was miſtaken in the main cauſe, nor dare I repent of it, nor forbear the ſame, if it were to do again in the ſame ſtate of things: I ſhould do all I could to prevent ſuch a War; but if it could not be prevented, I muſt take the ſame ſide as then I did, and my judgement telleth me that if I ſhould do otherwiſe, I ſhould be guilty of Treaſon and Diſloyaltie againſt the Sovereign power of the Land, and of perfidiouſneſs to the Common wealth,</hi> &amp;c. And you conclude yet more remarkably, <hi>It were too great folly by following Accidents that were then unknown, for me to judge of the former Cauſe. That which is Calamitous in the event, is not always ſinful in the Enterprize: Should the change of times make me forget that ſtate, that we were formerly in, and change my judgement, by loſing the ſence of what then conduced to its Infor<g ref="char:EOLhyphen"/>tion, this folly and forgetfulneſs would be the way to a ſinful, and not to an obedient Repentance.</hi> Thus (as I have already told you) like <hi>Caiaphas,</hi> being <hi>High-Prieſt</hi> for that Year, you <hi>Propheſied.</hi>
+            </p>
+            <p>Sir, It is poſſible (for what may not a little Time, and change of ſucceſs produce in ſo variable an underſtanding) that you may once more <hi>Repent</hi> of your late <hi>Repentance;</hi> For you have given in ſuch Evidence againſt your ſelf, and laid down ſuch convincing Arguments to make us belive your <hi>judgement</hi> is not yet altered (although your <hi>Paſſion</hi> and <hi>Interest</hi> is) that I muſt entreat every ſerious Reader, to judge, who hath dealt moſt candidly, You, or I, and from whom the greateſt ingenuity is to be expected. For my own part, I deſire to ſpeak it without any bitterneſs, upon the moſt exact and impartial reflexion I can make, I cannot ſee but your <hi>Repentance,</hi> and Mr. <hi>Lee</hi>'s <hi>Recan<g ref="char:EOLhyphen"/>tation</hi> may hereafter be bound up together in the ſame Volume, and both be held of equal Credit and Authority.</p>
+            <p>For, Sir, to be ſerius, do you think it can be looked upon as any tolerable degree of ſatisfaction, either to thoſe whom you formerly
+<pb n="4" facs="tcp:105049:4"/> deceived by Preaching them into a <hi>Conſcientious Diſobedience,</hi> or to thoſe who were then ruined and oppreſſed by it, to tell them now <hi>twenty years</hi> after, ſo ſlightly, that you are <hi>ſorry,</hi> and that <hi>you repent you had no more Impartially,</hi>
+               <note place="margin">
+                  <hi>page</hi> 52.</note> 
+               <hi>and diligently conſulted with the beſt Lawyers, that were agaimſt the Parliaments cauſe, for you knew no Contraverſie in Devinity about it, but in Politicks and Law.</hi> What, Sir? did you help on to <hi>Engage a Nation in Blood, to enter into a Covenant, Proclaim Faſts, make Solemn Apeals to God,</hi> and yet think nothing of <hi>Divinity</hi> in ſuch a <hi>Cauſe?</hi> Oh poor deluded People of <hi>England!</hi> How have thy <hi>Preachers,</hi> thy <hi>Baxters,</hi> thy ſeeming <hi>Boanerges, cauſed thee to erre, and ſwallowed up the way of thy Paths?</hi> and after they have led thee into <hi>Deep Waters,</hi> left thee miſerably plunged and floating there to ſave themſelves in their own <hi>Cockboats?</hi> Sir, do you think you ſhall ever Preach with more <hi>Evidence, Warmth,</hi> and <hi>Zeal</hi> any thing in your life, than you have already done the <hi>Neceſſity, Juſtice,</hi> and <hi>Lawfulneſs</hi> of this War; and, that you may know I do not ſpeak at ran<g ref="char:EOLhyphen"/>dom, particularly when at <hi>Gloceſter,</hi> you preached upon, <hi>Curſe ye Meroz;</hi> and now you ſay you <hi>Repent,</hi> do you expect ever to be believed again? Did not you then think it viſible on which ſide <hi>Christ</hi> and <hi>Religion</hi> ſtood? and did not you profeſs to ſee it in the year <hi>Fifty nine</hi> (but the year before the King came in) and are you now become <hi>Blind?</hi> O <hi>Rare Convert!</hi> What ſtrange changes will love of eaſe and fear of ſuffering, produce in a Corrupt and Carnal underſtanding?</p>
+            <p>Sir, I am truly ſorry I am forced to ſpeak thus plainly, but Zeal for the Glory of God which you have obſcured; Love to that <hi>Cauſe of Chriſt,</hi> and <hi>Non-conformity,</hi> which you have deſer<g ref="char:EOLhyphen"/>ted; and earneſtneſs of affection to the Souls of my C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>untrey men, whom you have abuſed; hath filled me with <hi>a juſt indigna<g ref="char:EOLhyphen"/>tion:</hi> And pray do not think it ſufficient to tell me as you do, that you <hi>Retract your Book;</hi> For ſuch childiſh Levity doth not at all al<g ref="char:EOLhyphen"/>ter <hi>Matters of Fact,</hi> but leaveth things ſtill as they formerly were, and diſcovereth you only to be deeplier plunged in the guilt of Unſetledneſs and inſtability.</p>
+            <p>And certainly, Sir, had you ever had patience, and allowed your ſelf Time to read over what you have formerly writ, you would havd found out ſome better Argument to employ your la<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r in, than to perſwade the World to <hi>Conformity</hi> now, with thoſe very <hi>Men, Way,</hi> and <hi>Things</hi> which (not a year before their eſtabliſhment among us) you have thrown ſo much dirt upon, that the very remembrance of them is ſtill loathſome to us.
+<pb n="5" facs="tcp:105049:4"/> Have you forgot, Sir, that when the <hi>Biſhops</hi> were down, and their calamity might have moved your pity, you then trampled upon them, and in gr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſcorn upbraidingly told them,<note place="margin">Five Diſp. Church go<g ref="char:EOLhyphen"/>vernments prin. An. <hi>1659.</hi> De<g ref="char:EOLhyphen"/>dicated to <hi>Richard Cromwel</hi> Protector. pref. p. <hi>17.</hi>
+               </note> 
+               <hi>We ſee that moſt of the ungodly in the land, are the forwardeſt for your ways, you may have almoſt a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Blaſphemers, and ignorant haters of godlineſs in the Countrey <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vote for you, and if they durſt again to fight for you at any time;</hi> and again, <hi>I know that the common ſenſe of moſt that are ſerious in Practical Chriſtiainity is againſt your for<g ref="char:EOLhyphen"/>mal ways of worſhip, and the Sp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit of Prophaneſs complieth with you, and doteth on you in all places that ever I was acquainted with;</hi> with much more railing Language to the ſame p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rpoſe. And when you do purpoſely argue upon this ſubject [<hi>Whether it be neceſſary or profitable for the right order or peace of the Churches,</hi>
+               <note place="margin">
+                  <hi>page</hi> 31.</note> 
+               <hi>to restore the extruded Epiſcopacy</hi>] you do with much ſtrength and vehe<g ref="char:EOLhyphen"/>mency handle the <hi>Negative,</hi> and among ſever<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l other Arguments, you urge this for one:<note place="margin">
+                  <hi>page</hi> 36.</note> 
+               <hi>That Government which graifieth the Devil and wicked men is not to be reſtored under any pretence of the Order or Peace of the Church; But ſuch was the Engliſh Epiſcopacy; therefore,</hi> &amp;c. And in Explication of the <hi>Minor,</hi> you enlarge very Emphatically, <hi>Who knoweth not,</hi> ſay you, <hi>for it cannot be denyed, that the generality of the Rable of ignorant Perſons, World<g ref="char:EOLhyphen"/>lings, Drunkards, Haters of Godlineſs are very zealous for Epiſ<g ref="char:EOLhyphen"/>copacy; Whilſt multitudes of truly Conſcientious people have been a<g ref="char:EOLhyphen"/>gainſt it; And who knoweth not that they fetch both their chief Motives from Experience? The ungodly found that Biſhops let them keep their ſins and troubled them not with this preciſenſs; but rather drove away the Preciſe Preachers and People, whom they abhor<g ref="char:EOLhyphen"/>red; and thoſe that diſliked Epiſcopacy, did it principally on the ſame Experience, obſerving they befriended the wicked, at leaſt by preſer<g ref="char:EOLhyphen"/>ving them from the due Rod of Diſcipline.</hi>
+            </p>
+            <p>Sir we muſt needs ſay we ſtand amazed, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow it is poſſible, you ſhould ſo ſoon and ſo much forget all that you have ſaid, and break through the bonds of ſuch convincing Arguments; For our parts, we, that want your eaſineſs and flexibility, are frighted at them, and dare not for our lives meddle with any thing, in the worſhip of God, which ſuch a man as you hath already told us tends <hi>to gratifie the Devil and wicked men.</hi> And though we have many other weighty Arguments, yet in this matter we are ſatisfied with your Authority, and are content to take your word; and it as you ſay the <hi>Governm n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>No Diſcipline</hi> of the <hi>Biſhops</hi> hath ſuch a dan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>grous i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>c, we muſt by withdrawing our <hi>Communion,</hi> declare both againſt it &amp; them; and I am confident they
+<pb n="6" facs="tcp:105049:5"/> will themſelves acquit us from any crime herein: For we dare ap<g ref="char:EOLhyphen"/>peal to any moderate man of the <hi>Epiſcopal perſwaſion,</hi> if they be indeed ſuch kind of perſons as you have repreſented them, whe<g ref="char:EOLhyphen"/>ther they ought not immediately to be foſaken and forborn as to any Acts of <hi>Church Communion:</hi> We think we need not ſpend many words in ſo clear a caſe, for you have already decided it for us; with much Triumphing and ſcorn you thus inſulted, former<g ref="char:EOLhyphen"/>ly over the <hi>Biſhops,</hi> and laid the foundation of all that which we now Conſcientioſly practice;<note place="margin">
+                  <hi>page</hi> 327, 328.</note> 
+               <q>I tell you, ſaid you, that which I ſuppoſe you know, That as free a toleration of Praelacy in <hi>England</hi> as there is of Presbytery were the likelyeſt way to bring you into perpetual contempt, For we cannot but know, that beſides a few civil engaged Gentlemen, Miniſters, and o<g ref="char:EOLhyphen"/>thers, your main body would conſiſt of thoſe, that for their notorious impiety, ſcandal or ignorance, are thought unmeet for <hi>Church Communion</hi> by others, and that when you came to exerciſe diſcipline on them, they would hate you and flee from you, as much as ever they did from Puritans; and if you did indulge them, and not reform them or caſt them out, your Church would be the con<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mpt of the ſober part of the World; and your own ſober members would quickly relinquiſh it for ſhame; For the Church of <hi>England</hi> (if you would needs be ſo called) would be taken for the ſink of all the other Churches in <hi>England:</hi>
+               </q> We need ſay no more, for whatever may be pleaded to the con<g ref="char:EOLhyphen"/>trary by others (with whom at preſent we are not diſputing) yet as to your ſelf (with whom our contraverſie is) I think no ſober perſon, but will ſay we are ſufficiently furniſhed with Ar<g ref="char:EOLhyphen"/>guments to anſwer the uttermoſt you can alledge. For to fall in with that which you call <hi>ſink of all the other Churches,</hi> to joyn with thoſe in Worſhip, who are, as you ſay, <hi>the contempt of the ſober part of the World, and whom all their ſober Members are to relinquiſh for ſhame,</hi> this muſt needs be an <hi>unjuſtifiable</hi> as well as an <hi>unbecoming</hi> practice. And therefore do not diſturb us any more, but let us alone, if you can, to follow that <hi>Light</hi> in this matter which you your ſelf once had, and give us leave to tell you, that to the beſt of our underſtanding, your <hi>preſent Light</hi> is nothing elſe but the <hi>confuſion of Darkneſs.</hi>
+            </p>
+            <p>You may perhaps Object (though we wonder you ſhould do it) that <hi>were the matter wholly left to our own liberty, you could not adviſe ſuch Communion as a thing of choice, but that which you call Authority (or Magiſtracy) interpoſing in the caſe, we are no longer left free to our own diſpoſe, but muſt be obedient in things
+<pb n="7" facs="tcp:105049:5"/> Indifferent for Conſcience ſake;</hi> we will not reply how much that <hi>Romans</hi> 13. (upon which you lay the ſtreſs of your Argument) hath been abuſed already by wreſting it to o<g ref="char:EOLhyphen"/>ther caſes, but yet we hope (whatever others do) you will not forget that very Text hath been urged by your ſelf (no longer ſince then the year 1659.) to juſtifie your ſiding with the <hi>Parliament</hi> againſt the <hi>King, VVhen,</hi>
+               <note place="margin">Holy Com. wealth <hi>p. 477.</hi>
+               </note> ſay you, <hi>the</hi> Parliament <hi>commanded us to obey, and not reſiſt them; I knew not how to reſiſt and diſobey them, without the violation of that command of God,</hi> Romans 13. <hi>Let eve<g ref="char:EOLhyphen"/>ry ſoul be ſubject unto the Higher Power,</hi> &amp;c. <hi>and without incurring the danger of that Condemnation there threatned to Reſiſters; and I think none doubteth but that command obligeth us to obey the</hi> Senate <hi>as well as the</hi> Emperor. Sir, You may eaſily ſee what I could, if I pleaſed, and were malicous, infer from hence, but <hi>I ſpare you,</hi> and without preſſing that, I ſhall only ſay that you have already in a<g ref="char:EOLhyphen"/>nother place diſcharged us, from any Conſcientious ſubjecti<g ref="char:EOLhyphen"/>on to Mens Commands in the <hi>Things of God</hi> upon the ac<g ref="char:EOLhyphen"/>count of that Text. For you ſay well and truly,<note place="margin">
+                  <hi>Firſt Diſp.</hi> p. 457.</note> that <hi>If Men who have no Authority over us ſhall pretend Authori<g ref="char:EOLhyphen"/>ty from God, and go about to exerciſe it by Ceremonious Im<g ref="char:EOLhyphen"/>poſitions, we have the more reaſon to ſcruple obeying them even in things indifferent; leſt we be guilty of eſtabliſhing their uſurpation and pretended office in the Church, and ſo draw on more evils than we foreſee or can remove;</hi> All the difference then between you and us (if indeed there be a<g ref="char:EOLhyphen"/>ny) lieth in the point of <hi>Authority,</hi> Which we ſay plain<g ref="char:EOLhyphen"/>ly, that none upon Earth (no not an Angel from Hea<g ref="char:EOLhyphen"/>ven) hath over us in the <hi>Things of God,</hi> that whole pow<g ref="char:EOLhyphen"/>er being incommunicably given to our <hi>Lord Christ,</hi> who keepeth it in his own hands, manageth it with his own Laws, directeth and influenceth it by his own Spirit, and hath not by any Commiſſion that we know of inveſted the <hi>Rulers of this VVorld</hi> with it; ſo that though you lightly quit, yet we ſee cauſe ſtill to keep our ground; For we dare not yeild, <hi>no not for a Moment,</hi> nor ſtir in a Cir<g ref="char:EOLhyphen"/>cumſtance from aſſerting that <hi>Libertie,</hi> which we are com<g ref="char:EOLhyphen"/>manded to <hi>Maintain,</hi> leſt we forfeit our Lords Right, <hi>Partake in other mens ſins,</hi> and loſing our hold, never be able to recover it again, when we ſhall gave occaſion to oppoſe
+<pb n="8" facs="tcp:105049:6"/> ſome new and yet unheard of Impoſition.</p>
+            <p>There remaineth but one Argument more in this whole Diſpute, and that is taken from <hi>Idolatry;</hi> Which we ſay all <hi>Deviſed Worſhip</hi> is a <hi>Species</hi> of; and even this, though you do with much ſeeming earneſtneſs declaim againſt it, yet it is apparent, you had ſome Glimmerings of Light a<g ref="char:EOLhyphen"/>bout; For after you had urged many Arguments to prove the unreaſonableneſs and ſinftlneſs of Preſcribing <hi>Forms of Prayer, Preaching,</hi> &amp;c. you conclude in theſe Words, <q>If none of theſe,<note place="margin">
+                     <hi>Five Diſp.</hi> page 378.</note> or other Reaſons will allay the Impe<g ref="char:EOLhyphen"/>rious Diſtemper of the Proud, but they muſt by an U<g ref="char:EOLhyphen"/>ſurped Legiſlation be making indifferent things become neceſſary to others, and Domineer over Mens Conſcien<g ref="char:EOLhyphen"/>ces and the Churches of God, we muſt leave them to him, that being the Lord and Lawgiver of the Church, is jea<g ref="char:EOLhyphen"/>lous of his Prerogative, and abhorteth <hi>Idols,</hi> and w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll not give his Glory to another:</q> Which expreſſion of <hi>Ab<g ref="char:EOLhyphen"/>horring Idols,</hi> why you ſhould uſe, had you nor taken e<g ref="char:EOLhyphen"/>very <hi>Humane Impoſition</hi> to be a kind of <hi>Idol</hi> we cannot Imagine: And therefore pray give us leave to ſumme up all together, and to ſay freely this, that had we but little to ſay upon this Argument in anſwer to others, yet we have enough for ever to ſilence you; and withal we profeſs, that though we do not therefore follow that which we take to be the Truth in this Que<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, becauſe you once aſſerted it before us; yet we w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll not therefore peeviſhly diſdain and reject it, bec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe you have unworthily rec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded from it; but rather we thankfully <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn the goodneſs of God, and admire the great force of <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>th, that you ſhould here<g ref="char:EOLhyphen"/>tofore be ſtirred up to write <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch (and of which you have not (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat we know of) yet Repented) by which you ſtand your ſelf <hi>Self cond <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed,</hi> and that Cauſe which y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u ſo eage<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly opp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lly and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pleatly juſtified.</p>
+            <p>I might here <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, for I w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Wordy</hi> faculty, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſe being mee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou, this is already ſo fully <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ne, that I re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon this Subject; But your bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and little le<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>theiſtical</hi> arguing a<g ref="char:EOLhyphen"/>gainſt the <hi>Divine</hi> and <hi>ſelf evide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uthority</hi> of the <hi>Holy Scripture,</hi> r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quireth I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>thing to it: The <hi>Poſition</hi> which you lay d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n is <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y contrary to the Doctrine of all our <hi>Ancient Proteſtant Divines,</hi> and par<g ref="char:EOLhyphen"/>ticularly
+<pb n="9" facs="tcp:105049:6"/> to that of the <hi>Firſt Reformers,</hi> and beſides is the very Foundation of the <hi>Roman</hi> (that is of the <hi>Antichriſtian Church;</hi> For you ſay plainly (as <hi>Andradius, Stapleton, Bel<g ref="char:EOLhyphen"/>larmine,</hi> and others,<note place="margin">pag. 188</note> the worſt <hi>Defenders</hi> of the <hi>Trent Council</hi> do) that the <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf evidencidg Light of Scripture is not ſufficient, without humane Help and Teſtimony to make us know every Canonicall Book from the Apocryphal,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. And you inſtance Particularly in <hi>Solomon</hi>'s <hi>Proverbs,</hi>
+               <note place="margin">Gab. p. <hi>61.</hi>
+               </note> unto which our Saviour himſelf and his Apoſtles have witneſſed as to a <hi>Divine Writing:</hi> And beſides in defence of this, you urge an Argument, of a more impious ſenſe and ſound, than ever I read in any but your ſelf; And I think that <hi>Bellarmine</hi> was modeſt, and but a Trifler to you;<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ab.</hi> p. 63. <hi>&amp;c.</hi>
+               </note> 
+               <q>Ma<g ref="char:EOLhyphen"/>homet, ſay you, and his followers (more numerous than the Chriſtians) pretend that Mahomets name was in Goſpel of <hi>John,</hi> as the Paraclete or Comforter, promi<g ref="char:EOLhyphen"/>ſed by Chriſt, and that the Chriſtians have blotted it out, and altered the Writings of the Goſpel: and how ſhall we diſprove them but by Hiſtorical evidence:</q> To which I ſhall only reply in ſhort, that if matters between them and us muſt be brought to this iſſue, <hi>Actum eſt,</hi> We have nothing ſubſtantial to plead, and it is not <hi>God</hi>'s but <hi>Man</hi>'s <hi>Word</hi> that muſt be taken, we having no certain nor infallible <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> left us, to diſcern and know the voice of Scripture by; I might urge what <hi>Whitaker, Chamier,</hi> and others have replyed, but I ſhall content my ſelf with what I find briefly, yet fully ſtated, by that Judicious and Weightie Writer Mr. <hi>Hilderſham,</hi> whoſe name in other caſes (particularly that of <hi>Conformity</hi> where you think he maketh for you) you pretend great Reverence to. <hi>Indeed the Testimony of the Church,</hi> ſaith he, <hi>doth first encline us to think that the Scripture is the Word of God, and maketh us willing to hear and read it; but after we by hearing and reading it attain to further certainty and aſſurance:</hi>
+               <note place="margin">
+                  <hi>John</hi> 4. <hi>Lect.</hi> 76.</note> 
+               <q>
+                  <hi>For God himſelf ſpeaketh to us in the Scripture, Luke</hi> 1.79. <hi>Hebrews</hi> 1.1. and that ſo clearly and evidently, that the Faithful are undoubtedly aſſured that it is he that ſpeak<g ref="char:EOLhyphen"/>eth. that it is indeed his Word; and they can ſay, as <hi>Cant.</hi> 2.8. <hi>It is the voice of my beloved.</hi> This is pro<g ref="char:EOLhyphen"/>miſed to the Faithful, <hi>Iſa.</hi> 52.6. <hi>They ſhall know in that day, that I am he that ſpeaketh, behold it is</hi> I; and
+<pb n="10" facs="tcp:105049:7"/> 
+                  <hi>John</hi> 7.17. <hi>If any man will do his Will, he ſhall know of the Doctrine, whether it be of God, or whether I ſpeak of my ſelf;</hi> And indeed if we could not now be undoubtedly certain, that is indeed Gods Word, the Caſe of the Church were worſe now, than it was when God ſpake to his people in <hi>Viſions</hi> and <hi>Dreams;</hi> For they were without any external Teſtimony from Men, fully aſſured then, that it was the Lord himſelf indeed that ſpake unto them; Nay it is Certain that we may be more ſure that God ſpeaks to us in his Word, then they could be of his ſpeaking unto them in <hi>Viſions,</hi> 2 <hi>Peter</hi> 1.19. <hi>We have alſo a more ſure Word of Pro<g ref="char:EOLhyphen"/>pheſie.</hi>
+               </q>
+            </p>
+            <p>Thus far that worthy Writer, who aſſerteth no more in ſubſtance, than what is the unanimous judgement of <hi>Calvin, Luther,</hi> and all our <hi>Ancient Proteſtant Divines;</hi> and I wonder while you tax another of <hi>Falſhood,</hi> you ſhould ven<g ref="char:EOLhyphen"/>ture thus to reproach their Memory, as if they held with you; when not one of them, but ſome few bold In<g ref="char:EOLhyphen"/>novators of late (like your ſelf) did ever aſſert that Opi<g ref="char:EOLhyphen"/>nion; which overthroweth and razeth to ground the whole <hi>Proteſtant</hi> cauſe, as tending wholly to enthrone <hi>Tradition,</hi> and to advance the <hi>Authority of Men</hi> in the <hi>Things of God.</hi>
+            </p>
+            <p>I know you bear your ſelf very high upon what you have already writ in defence (as you call it) of Scrip<g ref="char:EOLhyphen"/>ure;<note place="margin">page 16.</note> And you do inſolently tell us. I <hi>know of no man living in this age that hath written ſo much (I ſay not ſo well) for the things in Queſtion, Scripture and Chriſtianity as</hi> I <hi>have done:</hi> To which Boaſt I reply. Firſt, ſome have written large Books, and pretended great earneſtneſs for many things, on purpoſe that they might attaque and ſet upon them afterwards with greater advantage; Thus <hi>Caeſar Vanins</hi> wrote a very learned Book againſt <hi>Atheiſm,</hi> though it was his own profeſſed and avoiwed Impiety, in defence of which afterwards he deſperatly died. Secondly, give me leeve to ask you, <hi>To what purpoſe is all this VVaſte? or who hath required this at your Hands?</hi> And why do
+<pb n="11" facs="tcp:105049:7"/> you undertake a <hi>Needleſs,</hi> as well as an <hi>Impoſſible Task?</hi> That is to reconcile <hi>Religion</hi> to <hi>Natural Reaſon?</hi> to bring down the Things of God unto the underſtanding of Man; which is in effect to ſay you do not believe them to be <hi>Tremendous Myſteries.</hi> Thirdly, Me thinks you ſhould be frighted by the dreadful falls of thoſe pretendedly Rational men that went this way before you, from follow<g ref="char:EOLhyphen"/>ing after their bold and daring Example. <hi>Socinus,</hi> a man of no little Reaſon, proceeded ſo far as to deny the <hi>Di<g ref="char:EOLhyphen"/>vinity of Chriſt;</hi> And <hi>Grotius,</hi> who wrote as learned<g ref="char:EOLhyphen"/>ly on the Truth of Chriſtian Religion as any, yet him<g ref="char:EOLhyphen"/>ſelf died of none, or if as you ſay he died a <hi>Papiſt,</hi>
+               <note place="margin">Preſ. to five Diſp.</note> it was worſe than none: So that I may ſay of the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Ra<g ref="char:EOLhyphen"/>tional Arguing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, what the Apoſtle hath concerning meats, <hi>They have not profited thoſe that walked in them.</hi> Laſtly,<note place="margin">
+                  <hi>Heb.</hi> 13.9.</note> This I muſt teſtifie from my own Experience, and leave it as a warning to all, in whom the Itch of curious Enquiry is not yet healed, that had not I learn'd the Truth of Chriſtian Religion from better A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>guments, and a more Certain way of Reaſoning than any your Bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks afford, I had ſtill been plunged in the depths of <hi>Atheiſm;</hi> and I look upon your whole Diſcourſe about the <hi>Na<g ref="char:EOLhyphen"/>ture, Being,</hi> and <hi>Decrees</hi> of <hi>God,</hi> the <hi>Immortality of the Soul,</hi> and <hi>The reward of the Life to come</hi> (which you pre<g ref="char:EOLhyphen"/>tend to found upon <hi>Natural Reaſon</hi>) to be ſo far from the Cogency of <hi>Demonſtration,</hi> and the Evidence of <hi>Ra<g ref="char:EOLhyphen"/>tional Light,</hi> that ſuch kind of Diſcourſes ſerve much ra<g ref="char:EOLhyphen"/>ther to Teach, then to preſerve from Unbelief, while they give Corrupt Reaſon leave to argue, and juſtifie it ſelf, againſt that which is accounted the weakneſs and ſimplicity of believing. I look upon it as ſound Doct<g ref="char:EOLhyphen"/>rine, and ſo I held it long before I read it in Mr. <hi>Hil<g ref="char:EOLhyphen"/>derſham,</hi> 
+               <q>That this glory is due to Chriſt and to him alone to believe him upon his Word;<note place="margin">
+                     <hi>John</hi> 4. lect. 32.</note> even without the Teſtimony or Authority of any man, yea though we ſee no Reaſon for it, yea though it ſeem never ſo contrary to our own Reaſon: we muſt in this caſe be-like <hi>Pythagoras</hi> his Schollars, and ſo reſt in that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; when once we hear <hi>Thus ſaith the Lord,</hi> this muſt ſuffice us inſtead of all Reaſons,
+<pb n="12" facs="tcp:105049:8"/> here we muſt reſt and ſatisfie our ſelves. This is cal<g ref="char:EOLhyphen"/>led the <hi>Obedience of Faith,</hi> Rom. 16.26. Yea this is the firſt and chief Obedience that God requi<g ref="char:EOLhyphen"/>reth of us: The firſt work of his Grace in us is to ſubdue our Reaſon, 2 <hi>Cor.</hi> 10.5. Till we have attained to this ſimplicity, we ſhall never be wiſe unto Salvation; nor come to any comfortable Cer<g ref="char:EOLhyphen"/>taintie in the matters of Religion. The ſame wor<g ref="char:EOLhyphen"/>thy Author goeth on, <hi>this ſerves,</hi> ſaith he, <hi>to re<g ref="char:EOLhyphen"/>prove the Diſputer of this World,</hi> of whom the A<g ref="char:EOLhyphen"/>poſtle ſpeaks 1 <hi>Cor.</hi> 1.20. <hi>Where is the Diſputer of this VVorld?</hi> ſuch as will receive no more in Religion then they can ſee Reaſon for, Scripture will not ſerve their turn, they muſt have Reaſon; But, ſaith he, it is a dangererous thing not to reſt in the Au<g ref="char:EOLhyphen"/>thority of the Scriptures, not to count it <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; For there be many truths of God revealed in the Word, which are ſuch Miſteries, as it is not poſſible for Man by Reaſon and by Light of Nature to con<g ref="char:EOLhyphen"/>ceive; Nay, indeed the whole Doctrine of the Goſ<g ref="char:EOLhyphen"/>pel is ſo, 1 <hi>Cor.</hi> 2.7. 1 <hi>Tim.</hi> 3.16. Yea, the more a man excelleth in Natural Reaſon and Underſtanding, the more unable ſhall he be to conceive them, <hi>Rom.</hi> 8.7. <hi>The VViſdom of the Fleſh is enmity to God:</hi> It is God alone that by the ſupernatural Light of his Spirit, revealeth thoſe things, <hi>Mat.</hi> 16.17. And God will reveal it to none but to thoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat are Meek and Humble; to none that have ſuch <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igh conceit of them<g ref="char:EOLhyphen"/>ſelves, and attribute ſo much to their own Reaſon, <hi>Pſalm</hi> 25.9. <hi>The Meek will he teach his way.</hi>
+               </q> I have at large repeated this paſſage of that truly judicious and excellent Writer, becauſe he ſpeaketh ſuitably both to Scripture, and to what every Perſon truly enlightened can witneſs to; But to ſhew how much you differ, both from him and others of our ſoundeſt Divines in this point, and to make a full diſcovery of your ſpirit and temper, I ſhall compare it with a quite contrary paſ<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge, which ſome years ago I read, and much wonder<g ref="char:EOLhyphen"/>ed at in your ſelf. <q>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>I know there is a ſort of over<g ref="char:EOLhyphen"/>wiſe, and overdoing Divines, who will tell their fol<g ref="char:EOLhyphen"/>lowers
+<pb n="13" facs="tcp:105049:8"/> in private, where there is none to contradict them, that the Method of this Treatiſe is perverſe, as appealing too much to Natural Light, and over-valuing Humane Reaſon:</hi> and that I ſhould have done no more but briefly tell men, that all that which God ſpeaks in his word is true, and that <hi>Propria Luce</hi> it is evi<g ref="char:EOLhyphen"/>dent that the Scripture is the Word of God, and that to all Gods Elect he will give his Spirit, to cauſe them to diſcern it, and that thus much alone had been better than all theſe Diſputes and Reaſonings; But theſe Over-wiſe men who need no Reaſon for their Re<g ref="char:EOLhyphen"/>ligion and judge accordingly of others, and think that thoſe men who reſt not in the Authority of Jeſus Chriſt, ſhould reſt in theirs, are many of them ſo well acquainted with me as not to expect that I ſhould trouble them in their way or Reaſon againſt them— as much as I am addicted to ſcribling, I can quietly diſmiſs this ſort of men without the La<g ref="char:EOLhyphen"/>bour of opening their ignorance.</q> Thus you, who are, if compared to them, but a <hi>Raſh</hi> and <hi>Inſolent Seribler,</hi> becauſe you have nothing to do, but are at leiſure to be a <hi>Voluminous Trifler,</hi> dare with your breath blow upon, and ſeek to blaſt the Credit of all theſe worthy weigh<g ref="char:EOLhyphen"/>ty Writers (whom you call <hi>Over-wiſe,</hi> and <hi>Over-do<g ref="char:EOLhyphen"/>ing Divines</hi>) ſuch as <hi>Calvin, Preſton, Hilderſham, Per<g ref="char:EOLhyphen"/>kins,</hi> &amp;c. whom I quoated before, as if they were all but Bubbles for you to play with, and blow up and down at your pleaſure; but their Name, and Doctrine ſhall live and flouriſh, when yours ſhall wither, as not being able to endure the <hi>Fiery Tryal;</hi> So far therefore, as I can by Entreaties or Example prevail with any, I do earneſtly warn all perſons truly fearing God, that they be not deceived by Names, nor take any thing up<g ref="char:EOLhyphen"/>on truſt from a commonly Received and Miſtaken Re<g ref="char:EOLhyphen"/>pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation: For if I underſtand any thing of the true na<g ref="char:EOLhyphen"/>ture of Religion, your writings do contain that ſecret <hi>Leaven,</hi> which will ſowre and infect the Mind of an unwary Reader, with ſuch Erronious Apprehenſions, and Miſ-conceits of the Truth, that nothing but a new and thorough Converſion will be able to recover them; For
+<pb n="14" facs="tcp:105049:9"/> laying your Foundation in the <hi>Corrupt Will of Man,</hi> and building your Superſtructure in the <hi>Carnal <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding,</hi> you leave no room for true <hi>Holineſs</hi> and <hi>Mor<g ref="char:EOLhyphen"/>tification;</hi> but the Root of ſin which lieth within, re<g ref="char:EOLhyphen"/>maineth untouched, and <hi>Carnal Preſumption,</hi> or at the beſt <hi>Doubting</hi> (if not <hi>Deſpair</hi>) will be the utmoſt that ſuch Principles can poſſibly end in, or lead unto: I ſhall therefore here leave off, and for the preſent (if not for ever) end any farther Controverſie with you, as being one of whom I cannot ſay (what you do of me after all your virulence) that I <hi>am upright in the Main;</hi>
+               <note place="margin">
+                  <hi>page</hi> 26.</note> For I hold you are altogether <hi>Rotten</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>ſound in the Main,</hi> and ſo much the more <hi>incurable,</hi> in that you have greatly ſinned, and turned <hi>Scorner,</hi> ſince your <hi>Admonition.</hi>
+            </p>
+            <p>Theſe being my moſt ſerious thoughts of all your Works, I do willingly paſs by leſſer Matters, which yet afford me ſufficient ground of Exception, ſuch are—</p>
+            <p>
+               <hi>Firſt,</hi> Your <hi>Abſurd,</hi> and <hi>Inſigniflcant way of ſpeak<g ref="char:EOLhyphen"/>ing,</hi> although I have already reproved you for it; as when you talk of a <hi>Raſh and Carolefly uttered <g ref="char:V">Ʋ</g>ntruth,</hi>
+               <note place="margin">
+                  <hi>page</hi> 29.</note> 
+               <hi>which is Privatively voluntary (that is where the VVill omits its office)</hi> Where I am much to ſeek, what can be meant by <hi>Privatively voluntary,</hi> or how any action can be done where the <hi>VVill omits its office.</hi> Adde to this, your diſ<g ref="char:EOLhyphen"/>courſe of <hi>a receiving Obediential Power in a Carnal VVill,</hi> which <hi>receiving Power</hi> you call a <hi>Paſſive Power:</hi>
+               <note place="margin">
+                  <hi>page</hi> 139.</note> where the Comment and Explication is much harder than the Text. <hi>Laſtly,</hi> To urge no more your ſaying that by <hi>Corrup<g ref="char:EOLhyphen"/>tion and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpoſition barely ſeemeth to be meant ſuch For<g ref="char:EOLhyphen"/>maliter quoad Actum without including the degree of the Matter.</hi>
+               <note place="margin">
+                  <hi>page</hi> 134.</note> Sir, Theſe, and the like expreſſions, though you and the Schools call them <hi>Diſtincteons,</hi> yet indeed are no<g ref="char:EOLhyphen"/>thing elſe but <hi>Learned Non ſence;</hi> Which although they may not other wiſe have much hurt in them, yet they are
+<pb n="15" facs="tcp:105049:9"/> thoſe <hi>Big ſwelling words of Vanity,</hi> which are the uſual Language of <hi>Falſe Teachers,</hi> and one of the Marks which is fore-told by which they may be known, 2 <hi>Pet.</hi> 2.</p>
+            <p>
+               <hi>Secondly,</hi> I might except againſt your ſcornful trifling with things, that are moſt ſacred, and ſerious; as when you ſay,<note place="margin">
+                  <hi>page</hi> 57.</note> 
+               <hi>I am verily perſwaded if Chriſt came perſo<g ref="char:EOLhyphen"/>nally and viſibly to demand it, the King himſelf would yeild up his Crown to him;</hi> and I am as verily perſwa<g ref="char:EOLhyphen"/>ded the <hi>Turk</hi> or <hi>Pope</hi> would do ſo too; which yet at preſent I do not look upon as any great commendati<g ref="char:EOLhyphen"/>on to either of them: And beſides, had ever the Ter<g ref="char:EOLhyphen"/>ror of that <hi>Day of the Lord</hi> fell upon you, and did you in ſpirit believe and apprehend how dreadful that <hi>Ap<g ref="char:EOLhyphen"/>pearance</hi> would be, you would not have ſpake ſo like thoſe <hi>Mockers, who deride the Promiſe of his coming.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> I might juſtly blame your ſcarce Tolerable <hi>Sophiſtry,</hi> and Fallacious way of arguing, fit only for Boyes and Children; as when you pretend to know no difference in point of <hi>Impoſition,</hi> between one that uſeth a <hi>Form of his own,</hi>
+               <note place="margin">
+                  <hi>page</hi> 119, 120.</note> and he that is <hi>Impoſed</hi> upon to uſe always the <hi>Form</hi> of another: Whereas, in the one caſe, the hearer is at perfect libertie how far and how often he will joyn; In the other he is always tied up, and muſt either joyn in ſuch a Preſcript Form of Words or none at all: and this he knoweth before-hand, which ma<g ref="char:EOLhyphen"/>keth the difference vaſtly Diſproportionable.</p>
+            <p>
+               <hi>Laſtly,</hi> Give me leave to wonder, ſince the Apoſtle maketh it ſo dangerous a ſign of a proud diſtempered mind to <hi>dote about Queſtions,</hi> 1 <hi>Tim.</hi> 6. how it comes to paſs that you ſo ſtrangely delight in asking of them, eſpecially in matters where <hi>Faith</hi> alone muſt give the laſt Solution; and therefore to all your twenty bold <hi>Quaeries</hi> about the Scripture, take this general An<g ref="char:EOLhyphen"/>ſwer that when you have ſatisfied me you did not ſin greatly in raiſing ſuch Miſts and Doubts about them, and when you can give me ſecurity that you will not be aſ<g ref="char:EOLhyphen"/>king me twenty <hi>Questions</hi> more, I will endeavour your ſa<g ref="char:EOLhyphen"/>tisfaction.</p>
+            <pb n="16" facs="tcp:105049:10"/>
+            <p>I conclude therefore, with this <hi>Short</hi> but <hi>True Character</hi> of your ſelf and your late work, that you have writ neither with that <hi>Gravity,</hi> which became your <hi>Age;</hi> with that <hi>Sobriety,</hi> which became your <hi>Profeſſion;</hi> nor that <hi>Modeſty</hi> which became any tolerable <hi>Education;</hi> and ſince you ſo much forget your ſelf, I muſt tell you, that that Perſon, whom you ſo inſolently deſpiſe, is (to ſay no more) that your beſt, your <hi>Equal:</hi> but what he reckoneth he might <hi>Glory</hi> in, as ſome of his outward Advantages above you, he willingly waveth, as chuſing rather to glory in this, as God hath choſen him a <hi>Poor deſpiſed Publican (as one born out of due time)</hi> together with thoſe <hi>Women</hi> and <hi>Boyes</hi> whom you contemn, to cry <hi>Hoſanna to the Lords Chriſt,</hi> and to bear <hi>witneſs</hi> unto that very <hi>Truth,</hi> and at that very time of the Day, when you a <hi>Learned Scribe and Phariſee</hi> (under the Notion of <hi>Repenting</hi>) have moſt unworthily betrayed and deſerted it.</p>
+            <closer>
+               <salute>Farewel.</salute> 
+               <signed>Edward Baghaw.</signed>
+               <dateline>
+                  <hi>From my Priſon by</hi> New<g ref="char:EOLhyphen"/>gate,
+<date>9th <hi>m.</hi> 4th <hi>An.</hi> 1671.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="17" facs="tcp:105049:10"/>
+            <head>A <hi>POST-SCRIPT:</hi> CONTEINING An ADVERTISEMENT to the CHRISTIAN READER.</head>
+            <p>IN Anſwer to Mr. <hi>Baxters Poſt ſcript,</hi> I have this to ſay briefly,<note place="margin">Holy Com. Wealth. <hi>pef.</hi>
+               </note> That I have read and conſidered thoſe Words of his, <hi>The Lord Protector did Prudently, Piouſly, Faithfully to his Immortal Honour, exerciſe the Govern<g ref="char:EOLhyphen"/>ment;</hi> And I ſtill think that Mr. <hi>Baxter</hi> could not be ſerious, if he meant them of <hi>Richard Cromwell,</hi> who loſt the Government, before he was well ſetled in it, and never did any thing (that I have heard of) to deſerve ſo large a Character: But ſince Mr <hi>Baxter</hi> is pleaſed to affirm that he intended him, I ſhall not be Critical in another mans words, but take it for grant<g ref="char:EOLhyphen"/>ed that indeed it was ſo; But then I ſhall deſire to be ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isfied in two things, Firſt, what is become of Mr. <hi>Baxters Repentance;</hi> For when I urged that paſſage to him,<note place="margin">
+                  <hi>page</hi> 47.</note> as ſpoken of <hi>Oliver</hi> he tells me in one part of his Book, <hi>I thank you for calling me to review thoſe words, and do freely declare that I do take them to be unmeet, and that I do unfeignedly Repent of them;</hi> and yet in the Concluſion he complaineth that he <hi>too raſh<g ref="char:EOLhyphen"/>ly
+<pb n="18" facs="tcp:105049:11"/> beleived me; For upon peruſal he finds it moſt Not<g ref="char:EOLhyphen"/>rious that he ſpake it not of</hi> Oliver <hi>but of his Son;</hi> at which he <hi>wipeth his Mouth</hi> and thinks all is very well; But may not this be expected as likely to be the iſſue of all Mr. <hi>Baxter</hi>'s other <hi>Repentance,</hi> that upon ſecond thoughts he will complain he was too raſh and haſty in it. Secondly, I would fain <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>now by what Proprie<g ref="char:EOLhyphen"/>ty of ſpeech, he can affirm <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he doth that <hi>Oliver Crom<g ref="char:EOLhyphen"/>well was guilty of moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erfidious Treaſon and Rebellion;</hi>
+               <note place="margin">
+                  <hi>page</hi> 42.</note> 
+               <hi>and he himſelf an unqueſtionable <g ref="char:V">Ʋ</g>ſurper;</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d yet own and allow his Son to be a <hi>Pious, Prudent, Faithful</hi> Go<g ref="char:EOLhyphen"/>vernour? Was not <hi>Richard</hi> his <hi>Fathe s Succeſſor,</hi> and did not he ſucceed him in his <hi>Sinful <g ref="char:V">Ʋ</g>ſurpation?</hi> and can Mr. <hi>Baxter</hi> continue to juſtifie ſuch words (which muſt be accounted either down ri<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> calling againſt the one, or ſordid Flattery to the oth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>) and yet hold him<g ref="char:EOLhyphen"/>ſelf, <hi>Innocent?</hi>
+            </p>
+            <p>As for the <hi>Oath of Allegiance,</hi> which I am in <hi>Pri<g ref="char:EOLhyphen"/>ſon</hi> for refuſing, and Mr. <hi>Baxter</hi> I perceive pleads for, and would fain engage all the <hi>Non-Conformiſts</hi> to be Defenders of, I muſt needs ſay, that if I underſtood that <hi>Oath</hi> in no ſtricter a ſenſe, and had as many <hi>Di<g ref="char:EOLhyphen"/>ſtinctions</hi> to elude the true meaning and force of it, as Mr. <hi>Baxter</hi> hath lately found out about the <hi>Covenant,</hi> I might perhaps be induced to take it too; But I bleſs God, I dare not <hi>Trifle with Oaths;</hi> For I look upon one that is once deliberately Sworn to be alwayes ſtrictly <hi>Obliged;</hi> and where the <hi>Name of God</hi> is uſed to make a Tye ſacred, I think that Reverence is due to it, that we are not afterwards to mince Matters, but bound to go unto the u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>moſt Latitude, that the words will bear, for the Advantage of the Party unto whom we are Sworn: This being my ſenſe of every <hi>Oath,</hi> I muſt take leave freely to profeſs that in this of <hi>Allegiance,</hi> I do not underſtand the meaning of <hi>Crown and Dignity,</hi> for if thoſe word, ſignifie (as I verily believe they do) <hi>The Laws in being</hi> (for ſo both Sr. <hi>Orlando Bridgeman,</hi> and Dr. <hi>Sanderſon</hi> have interpreted them) then I can<g ref="char:EOLhyphen"/>not ſwear to <hi>Defend them;</hi> For ſome of thoſe <hi>Laws</hi>
+               <pb n="19" facs="tcp:105049:11"/> (and particularly thoſe about <hi>Conformity</hi>) I daily break, and which is more, think I am bound in Conſcience to do ſo: And though I ſhould erre and be miſtaken in the Grounds of ſuch a Practice, yet every one knoweth, and Dr. <hi>Sanderſon</hi> hath fully ſtared it, that <hi>even an Erroni<g ref="char:EOLhyphen"/>ous Conſcience doth alwayes oblige not to do any thing a<g ref="char:EOLhyphen"/>gainſt the Dictates of it.</hi> More I could ſay, but two Arguments againſt this <hi>Oath</hi> I have already pub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ickly urged at the <hi>Bar,</hi> in which I have not yet received any ſatisfaction.</p>
+            <p>One is that I am required to ſay, <hi>VVhich Oath I ac<g ref="char:EOLhyphen"/>knowledge by good and full Authority to be Lawfully Ad<g ref="char:EOLhyphen"/>ministred to me;</hi> which I am ſo far from being able to ſwear, that on the contrary, I am fully ſatisfyed, this Oath was to me moſt <hi>unlawfully adminiſtred:</hi> The de<g ref="char:EOLhyphen"/>ſign and end of the Oath (which was to diſcover and to ſuppreſs <hi>Popiſh Recuſants</hi>) and many other Legal Circumſtances having not been at all obſerved.</p>
+            <p>Another Exception which I urged was, that I am to ſay, <hi>This Recognition I make heartily, willingly,</hi> &amp;c. Which word <hi>Willingly</hi> being then under an undue force (deteined a Priſoner after I was acquitted by a <hi>Jury</hi>) and to take that Oath as the Condition of obteining my <hi>Liberty</hi> (unto which <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> my ſelf, as ha<g ref="char:EOLhyphen"/>ving a juſt title <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> unleſs I would directly h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed my ſelf by ſome <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>Theſe were ſome of my Reaſons, which I pleaded at the <hi>Barr,</hi> and whatever Mr. <hi>Baxter</hi> thinks of them (who undervalueth moſt mens judgement but his own) yet they are ſtill of weight to me, and at that time they were judged ſo conſiderable by thoſe that heard them, that the <hi>Juſtice</hi> who paſſed Sentence upon me, ſaid pub<g ref="char:EOLhyphen"/>lickly in the hearing of many Witneſſes, <hi>That he did not doubt, but I refuſed the Oath out of Conſcience and from a good Principle;</hi> wherein, though he did ill to cond<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mn one whom he judged Innocent, yet he was more juſt and
+<pb n="20" facs="tcp:105049:12"/> Generous then Mr. <hi>Baxter,</hi> who calleth me <hi>Brother,</hi> and yet uſeth me as <hi>Edom</hi> did <hi>Iſrael;</hi> not fearing to adde what weight he can to make my Bonds heavier; and ſo far as his Cenſure can prevail, ſeeking to leave me with<g ref="char:EOLhyphen"/>out the common Relief of Calamity, Pity. But the Lord will certainly judge between him and me, with whom I leave my <hi>Cauſe,</hi> and the Iſſue of this whole Controver<g ref="char:EOLhyphen"/>ſie; who hath already in his Word, and will in due time by his Works decide, who are moſt to be approved for Integrity, whether thoſe who are content to endure the utmoſt Extremity, rather than deny the Truth, or depart from a well taken up Reſolution; or ſuch who are, <hi>like <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eds, ſhaken with every Wind,</hi> and ſcruple not to change their Judgement, For, and Againſt things, as the ſtream of outward ſucceſs doth guide and influence them. There being no other viſible Reaſon why Mr. <hi>Baxter</hi> ſhould at this day, profeſs his <hi>Repentance,</hi> for what he ſo ſtiffly held and defended before, but only that Argument of the <hi>Jewiſh Conformiſts</hi> of old,<note place="margin">
+                  <hi>Gal.</hi> 6.10.</note> 
+               <hi>That he may not be Perſecuted by the Croſs of Chriſt,</hi> in which yet, as the Apoſtle did, ſo every True Chriſtian ought to <hi>Glory.</hi>
+            </p>
+            <pb facs="tcp:105049:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
